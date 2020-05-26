@@ -1,0 +1,178 @@
+body {
+  background-color: #FAFAFA;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+
+.heading-1 {
+  font-weight: 200;
+  color: 	#4C4E61;
+  margin: 70px auto 0;
+}
+
+.heading-2 {
+  font-weight: 900;
+  color: 	#4C4E61;
+  margin: 0 auto 25px;
+}
+
+.desc {
+  margin: 0 auto 50px;
+  width: 40%;
+  color: #A3A5AE;
+}
+
+.team-builder-h {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #4C4E61;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.team-builder {
+  border-top-style: outset;
+  border-top-width: 3px;
+  border-top-color: #EA5353;
+  border-radius: 5px;
+  box-shadow: 3px 3px 12px #A3A5AE;
+  width: 20%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px 30px;
+  text-align: left;
+  position: relative;
+  height: 170px;
+}
+
+.team-builder-desc {
+  color: #A3A5AE;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px
+}
+
+.icon-team-builder {
+  position: absolute;
+  right: 30px;
+  bottom: 25px;
+  height: 50px;
+}
+
+.supervisor-h {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #4C4E61;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.supervisor {
+  border-top-style: outset;
+  border-top-width: 3px;
+  border-top-color: #45D3D3;
+  border-radius: 5px;
+  box-shadow: 3px 3px 12px #A3A5AE;
+  width: 20%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px 30px;
+  text-align: left;
+  position: relative;
+  right: 360px;
+  bottom: 100px;
+  height: 170px;
+}
+
+.supervisor-desc {
+  color: #A3A5AE;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px
+}
+
+.icon-supervisor {
+  position: absolute;
+  right: 30px;
+  bottom: 25px;
+  height: 50px;
+}
+
+.calculator-h {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #4C4E61;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.calculator {
+  border-top-style: outset;
+  border-top-width: 3px;
+  border-top-color: #549EF2;
+  border-radius: 5px;
+  box-shadow: 3px 3px 12px #A3A5AE;
+  width: 20%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px 30px;
+  text-align: left;
+  position: relative;
+  bottom: 324px;
+  left: 360px;
+  height: 170px;
+}
+
+.calculator-desc {
+  color: #A3A5AE;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px
+}
+
+.icon-calculator {
+  position: absolute;
+  right: 30px;
+  bottom: 25px;
+  height: 50px;
+}
+
+.karma-h {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #4C4E61;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.karma {
+  border-top-style: outset;
+  border-top-width: 3px;
+  border-top-color: #FCAF4A;
+  border-radius: 5px;
+  box-shadow: 3px 3px 12px #A3A5AE;
+  width: 20%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 25px 30px;
+  text-align: left;
+  position: relative;
+  bottom: 415px;
+  height: 170px;
+}
+
+.karma-desc {
+  color: #A3A5AE;
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 30px
+}
+
+.icon-karma {
+  position: absolute;
+  right: 30px;
+  bottom: 25px;
+  height: 50px;
+}
